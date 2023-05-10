@@ -1,0 +1,9 @@
+63cf6b7f-9e39-4e58-bf92-31dc5e181c66,salomon,1234,salomon@email.com,true
+55956a6c-f7c2-40ae-b960-f7a6720bf34c,bryan,1234,bryan@email.com,false
+17f1842b-6efc-483b-93e0-ec0da6e40989,kate,1234,kate@email.com,true
+91deb64a-99ae-4cb6-9be4-fc4270140463,carlos,1234,carlos@email.com,true
+210a92b0-ba68-43db-b239-3ed7030b296c,sara,1234,sara@email.com,true
+96b02d3a-9eca-4665-b6dd-0f9971ed5876,yorman,1234,yorman@email.com,true
+c837097d-f19a-4f16-8086-de21b2e28131,angelica,1234,angelica@email.com,true
+4858bc51-8e98-4f61-b1d9-5b70a12059ec,sandy,1234,dahianarh@email.com,true
+9bbb6ad2-02a1-458d-a1fd-cb4809c59376,dahiana,1234,dahiana@email.com,true
